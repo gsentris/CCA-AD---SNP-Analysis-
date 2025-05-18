@@ -1,5 +1,5 @@
 # CCA-Network---SNP-Analysis-AD_analysis 
-Please let me know if you require any files to run the code 
+Please let me know if you require the files to run it. I've withheld from uploading them for privacy reasons. 
 -----------------------------------
 PRACTICE
 -------------------------------
